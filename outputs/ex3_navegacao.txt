@@ -1,0 +1,6 @@
+/workspaces/lab-1-introducao-laurayaguiu/exemplos
+/workspaces/lab-1-introducao-laurayaguiu
+/workspaces/lab-1-introducao-laurayaguiu/docs
+/workspaces/lab-1-introducao-laurayaguiu/outputs
+/workspaces/lab-1-introducao-laurayaguiu
+/workspaces/lab-1-introducao-laurayaguiu

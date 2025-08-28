@@ -1,7 +1,7 @@
 # 📝 Relatório do Laboratório 1 - Introdução ao Linux
 
-**Nome:** [Seu nome aqui]  
-**RA:** [Seu RA aqui]  
+**Nome:** Laura Rocha Yaguiu
+**RA:** 10736399
 
 ---
 
@@ -25,19 +25,19 @@ Para elaborar um relatório completo e que realmente agregue valor ao seu aprend
 **1. Qual foi o comando mais útil que você aprendeu? Por quê?**
 
 ```
-[Sua resposta aqui]
+O comando mais útil que aprendi foi o pwd, uma vez que ajuda você a se situar melhor.
 ```
 
 **2. Qual comando você achou mais difícil de entender? Por quê?**
 
 ```
-[Sua resposta aqui]
+O comando que achei mais difícil de entender foi o touch, achei a questão de criar arquivos vazios complicada de entender.
 ```
 
 **3. Você conseguiu completar todos os exercícios? Se não, quais dificuldades encontrou?**
 
 ```
-[Sua resposta aqui]
+Sim, eu consegui completar todos od exercícios.
 ```
 
 ---
